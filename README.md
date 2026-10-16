@@ -7,7 +7,6 @@
 - React.js
 - Tailwind CSS
 - JavaScript
-- HTML5
 - Weather API
 
 ## ✨ Features
