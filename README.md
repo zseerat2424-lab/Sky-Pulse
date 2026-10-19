@@ -17,7 +17,6 @@
 - Weather conditions
 - Responsive design
 - Clean and modern UI
-- Mobile-friendly layout
 
   ## 🌐 Live Demo
 
